@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Love-Lyu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/\>
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Love-Lyu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
